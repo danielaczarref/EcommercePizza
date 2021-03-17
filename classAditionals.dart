@@ -3,7 +3,7 @@ import 'classProduct.dart';
 
 class Additionals extends Product {
   String additionalDescription;
-  int amount,
+  int amount;
   Additionals (
     double price,
     this.amount,
